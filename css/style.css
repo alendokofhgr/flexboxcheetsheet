@@ -1,0 +1,12 @@
+.container{
+    background-color: pink;
+    height:900px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.grape{
+
+}
